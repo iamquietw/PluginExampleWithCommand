@@ -1,0 +1,7 @@
+main: quietw.example.Main
+name: PluginExample
+version: 1.0
+commands:
+  privet:
+    usage: /<command>
+    description: "прив че как"
